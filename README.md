@@ -12,3 +12,4 @@
 - [ ] Realtime communication (simple chat app)
 - [ ] Stripe UI with card verification and validation
 - [ ] Client side PDF generation
+- [ ] React hooks demonstration (Basic shopping cart)

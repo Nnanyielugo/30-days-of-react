@@ -1,4 +1,4 @@
-# 80-days-of-react
+# 30-days-of-react
 
 ### TODO (In no particular order):
 
